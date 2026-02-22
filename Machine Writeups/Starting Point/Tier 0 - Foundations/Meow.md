@@ -1,5 +1,15 @@
 # Meow
 
+**Machine URL:** [Meow](https://app.hackthebox.com/machines/Meow?sort_by=created_at&sort_type=desc)
+
+**Difficulty:** Very Easy
+
+**Author:** Abdur Rehman Siddiqui
+
+**Date Completed:** 21-Feb-2026
+
+---
+
 ## Overview
 
 ![overview image](/Machine%20Writeups/Starting%20Point/Images/Meow/overview%20-%20meow.png)
