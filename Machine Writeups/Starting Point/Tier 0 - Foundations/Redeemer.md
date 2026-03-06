@@ -12,7 +12,7 @@
 
 ## Overview
 
-![overview](/Machine%20Writeups/Starting%20Point/Images/Dancing/overview.png)
+![overview](/Machine%20Writeups/Starting%20Point/Images/Redeemer/overview.png)
 
 ## Solution
 
